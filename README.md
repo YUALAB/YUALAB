@@ -6,7 +6,7 @@ Tokyo-based tech company specializing in cutting-edge AI agent development and e
 
 ## 🚀 What We Do
 
-- **AI Agent Development** - Building autonomous agents using LLMs (GPT-4, Claude, Gemini)
+- **AI Agent Development** - Building autonomous agents using LLMs (GPT, Claude, Gemini)
 - **RAG Systems** - Custom retrieval-augmented generation for enterprise knowledge bases
 - **DX Consulting** - End-to-end digital transformation for businesses
 - **Cloud Solutions** - AWS, GCP, Azure architecture and deployment
